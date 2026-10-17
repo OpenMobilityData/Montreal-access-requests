@@ -57,7 +57,7 @@ The 2014 RFA files are publications of the Service des finances (PDFs created Ju
 
 ## `derived/`
 
-Draft analyses made by the author from the Excel model in February 2025: LaTeX notes, MATLAB replications of the model, and diagrams of the transfer calculation. They are unreviewed drafts; see [`derived/README.md`](derived/README.md).
+Draft analyses made by the author from the Excel model in February 2025: LaTeX notes and diagrams of the transfer calculation. They are unreviewed drafts; see [`derived/README.md`](derived/README.md).
 
 ## Related
 
