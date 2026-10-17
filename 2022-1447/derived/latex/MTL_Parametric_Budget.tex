@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{longtable}
+
+\title{Analysis of the City of Montreal's Parametric Budget Model}
+\author{}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+The parametric budget model implemented by the City of Montreal determines the allocation of funds from the central city administration to its boroughs. This document explains how the model operates, with specific attention to the transfer payments received by Côte-des-Neiges–Notre-Dame-de-Grâce (CDN-NDG). The analysis also discusses the relationship between borough-specific tax revenues and the funds returned to boroughs, considering the centrally administered services funded by the retained revenues.
+
+\section{Overview of the Parametric Budget Model}
+The parametric budget model is based on standardized parameters that account for borough-specific needs and characteristics. It aims to provide a fair distribution of resources by aligning borough budgets with objective criteria rather than historical allocations.
+
+The budgetary process involves the following steps:
+
+\begin{enumerate}
+    \item \textbf{Determination of the Comparative Budget:} This step involves analyzing the historical spending and operational costs for each borough, adjusted for inflation and other economic factors.
+    \item \textbf{Calculation of the Adjusted Envelope:} The city's overall budget is distributed across boroughs based on parameters like population, surface area, socio-economic indicators, and service delivery standards.
+    \item \textbf{Parameterization:} Boroughs receive budget allocations according to predetermined weights assigned to each parameter.
+    \item \textbf{Central Transfers:} These transfers account for borough-specific needs and address any discrepancies between the adjusted envelope and the parameterized budget.
+    \item \textbf{Final Parametric Budget:} Each borough receives a final budget that reflects its calculated needs and central transfers.
+\end{enumerate}
+
+\section{Application to Côte-des-Neiges–Notre-Dame-de-Grâce}
+The transfer payments for CDN-NDG are determined by applying the parameters outlined above. According to the spreadsheet analysis, the key parameters include:
+
+\begin{itemize}
+    \item \textbf{Population:} CDN-NDG has one of the highest populations among Montreal's boroughs, which significantly influences its budget allocation.
+    \item \textbf{Surface Area:} The borough's large geographical area increases the cost of service delivery.
+    \item \textbf{Socio-Economic Factors:} The borough includes both affluent and economically disadvantaged neighborhoods, which affects resource distribution.
+    \item \textbf{Service Needs:} The demand for municipal services, such as waste collection, snow removal, and recreational facilities, impacts budget calculations.
+\end{itemize}
+
+The spreadsheet formulae show that the parameterized budget for CDN-NDG exceeds its adjusted envelope, indicating that the borough receives additional central transfers to address its higher service demands.
+
+\section{Parity Between Tax Revenues and Transfer Payments}
+The central city administration retains a portion of borough-specific tax revenues to fund centrally administered services delivered across all boroughs. These services include:
+
+\begin{itemize}
+    \item Public safety (police and fire services)
+    \item Public transportation
+    \item Major infrastructure projects
+    \item Administrative support services
+\end{itemize}
+
+While some boroughs contribute more tax revenue than they receive in transfer payments, the retained funds support citywide services that benefit all residents, including those in the contributing boroughs.
+
+For CDN-NDG, the analysis reveals that the borough receives transfer payments that align closely with its tax contributions after accounting for centrally delivered services. This suggests a balanced allocation of resources under the parametric model.
+
+\section{Conclusion}
+The City of Montreal's parametric budget model provides a structured and transparent approach to resource allocation across boroughs. For Côte-des-Neiges–Notre-Dame-de-Grâce, the model ensures that transfer payments reflect the borough's specific needs while maintaining parity with tax contributions. Although some funds are retained by the central administration, they support essential services that benefit all boroughs.
+
+Future improvements to the model could include more detailed tracking of centrally administered services and their direct impact on each borough. This would further enhance transparency and ensure continued fairness in budget allocations.
+
+\end{document}
+

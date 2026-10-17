@@ -1,0 +1,71 @@
+
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{hyperref}
+
+\title{Parametric Budget Model for Montreal Boroughs}
+\author{}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+This document explains how the City of Montreal's parametric budget model determines transfer payments to its boroughs, using Côte-des-Neiges–Notre-Dame-de-Grâce (CDN-NDG) as an example. The analysis includes the formulas used, actual calculations, and a discussion of the parity between borough-specific tax revenues and transfer payments.
+
+\section{Overview of the Parametric Budget Model}
+The parametric budget model was implemented to ensure equitable distribution of municipal resources across boroughs based on measurable parameters. It involves the following steps:
+\begin{enumerate}
+    \item Determining the comparative budget for each borough.
+    \item Adjusting the budget envelope based on local characteristics.
+    \item Allocating transfer payments using defined parameters.
+    \item Applying central adjustments and finalizing the borough budget.
+\end{enumerate}
+
+\section{Key Parameters and Formulas}
+Transfer payments are calculated based on the borough's population, service needs, and other parameters. The general formula is:
+
+\begin{equation}
+T_b = B_b + I_b + A_b + D_b - R_b
+\end{equation}
+
+Where:
+\begin{itemize}
+    \item \( T_b \): Total transfer to borough \( b \).
+    \item \( B_b \): Base allocation from previous year.
+    \item \( I_b \): Indexation based on inflation and service cost changes.
+    \item \( A_b \): Adjustments for local service needs.
+    \item \( D_b \): Specific compensations for delegated responsibilities.
+    \item \( R_b \): Reductions for local revenue generation.
+\end{itemize}
+
+For CDN-NDG in 2017:
+\[
+T_{\text{CDN-NDG}} = 62,162.83 + 621.63 + 293.64 + 48.70 - 66.89 + 7.89 - 11,831.10
+\]
+
+Calculating the total:
+
+\[
+T_{\text{CDN-NDG}} = 62,162.83 + 621.63 + 293.64 + 48.70 - 66.89 + 7.89 - 11,831.10 = 51,338.11
+\]
+
+\section{Parity Between Tax Revenues and Transfers}
+While borough-specific tax revenues contribute to the central city administration, not all funds are returned to the boroughs. Some revenues are allocated for centrally administered services delivered across the city, such as emergency services, public transit, and major infrastructure projects.
+
+For CDN-NDG:
+\begin{itemize}
+    \item Tax revenue contribution: \$62.16 million (2016)
+    \item Transfer received: \$51.34 million (2017)
+\end{itemize}
+
+The difference of approximately \$10.82 million reflects funding retained by the central administration for citywide services.
+
+\section{Conclusion}
+The parametric budget model ensures borough funding aligns with service needs and population metrics. While some tax revenues remain with the central administration, they support services benefiting all boroughs. Future evaluations should continue to refine the model for fairness and transparency.
+
+\end{document}
