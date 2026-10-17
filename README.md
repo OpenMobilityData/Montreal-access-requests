@@ -55,7 +55,7 @@ Quotations from these documents in other work should cite the file number, the f
 
 ### Edit history
 
-Everything in this repository was written in the open. The complete edit history of every file is public through the [commit log](https://github.com/OpenMobilityData/Montreal-access-requests/commits/main) and the diffs; each change can be traced to the commit that made it, with the reason given in the commit message. The files in `2022-1447/` were first published, without provenance, in the repository `OpenMobilityData/Parametric` (February 20, 2025); this repository supersedes it. The READMEs were drafted with the help of an AI assistant (Anthropic's Claude), which is named as co-author on the commits where it was used; the author checked every statement against the documents and is responsible for the content.
+Everything in this repository was written in the open. The complete edit history of every file is public through the [commit log](https://github.com/OpenMobilityData/Montreal-access-requests/commits/main) and the diffs; each change can be traced to the commit that made it, with the reason given in the commit message. The files in `2022-1447/` were first published, without provenance, in the repository `OpenMobilityData/Parametric` (February 20, 2025); this repository superseded it, and it was deleted on October 17, 2026. The READMEs were drafted with the help of an AI assistant (Anthropic's Claude), which is named as co-author on the commits where it was used; the author checked every statement against the documents and is responsible for the content.
 
 ## Related
 
