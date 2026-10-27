@@ -63,3 +63,7 @@ Draft analyses made by the author from the Excel model in February 2025: LaTeX n
 
 - [`../2022-1449/`](../2022-1449/): three files on borough debt, downloaded with this set.
 - [`../proactive-disclosure/budget/`](../proactive-disclosure/budget/): borough file 2022-131 (the borough's answer to the revenue request of March 23, 2022) and borough file 2023-502.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

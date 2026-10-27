@@ -11,3 +11,7 @@
 | [`figures/`](figures/) | 2025-02-21 | Figures | Twelve diagrams of the transfer calculation (11 PNG, 1 SVG), drawn with ad hoc MATLAB scripts |
 
 Not included: the ad hoc MATLAB scripts that replicated the model and drew the diagrams (February 20–21, 2025). They are kept by the author as a record of the calculation, to be re-implemented as documented Python code; they will not be published as they are. Also not included: the 257-page split of O-1-2 that was in the earlier `Parametric` repository (pages 2–258 of [`../raw/O - 1 2 Réponse et documents 19-07-2022.pdf`](<../raw/O - 1 2 Réponse et documents 19-07-2022.pdf>), re-saved as a separate file), and the author's working copy of the Excel model.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../../README.md#use-of-ai).*

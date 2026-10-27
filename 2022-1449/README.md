@@ -18,3 +18,7 @@ The files keep their portal names, including the "(1)" suffixes and the stray sp
 | [`Demande 2022-1449 - Dettes et Reglements d'emprunt - Arrondissements, 2005-2020 (1).xlsx`](<raw/Demande 2022-1449 - Dettes et Reglements d'emprunt - Arrondissements, 2005-2020 (1).xlsx>) | — | The same two tables as a spreadsheet (sheets `Liste-Reglements` and `Soldes 2005-2020`) |
 
 The files were checked for personal information of a requester (text, metadata, spreadsheet contents); there is none. The spreadsheet's metadata name a City employee as author, as released.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

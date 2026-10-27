@@ -30,3 +30,7 @@ The three Superior Court file numbers in the table identify the proceedings: 500
 | [`derived/tableau_honoraires_debours_as_csv.csv`](derived/tableau_honoraires_debours_as_csv.csv) | The spreadsheet's non-empty rows as CSV, values unchanged |
 
 Related: the public record of the Commission municipale du Québec's 2021 decisions and of the 2022 judgment is collected in [`Terrebonne-open-sources/2021-montgomery-ethics-case/`](https://github.com/OpenMobilityData/Terrebonne-open-sources/tree/main/2021-montgomery-ethics-case).
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

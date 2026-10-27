@@ -21,3 +21,7 @@ Inventory row (October 17, 2026; number · category · subject · service or bor
 > `2023-502` · Finances et évaluaton foncière · État des surplus libres cumulés pour 2018 à 2023 · Côte-des-Neiges—Notre-Dame-de-Grâce · 2023-10-18 · 2023-10-25 · https://depot.ville.montreal.qc.ca/acces-documents-diffusion-proactive/3-2023-502.pdf
 
 File: [`3-2023-502.pdf`](3-2023-502.pdf), 42 pages, as published. The borough's e-mail of October 18, 2023 (file 2023-502, request received September 29, 2023), giving the surpluses injected into the budget balance each year from 2018 to 2023 with the council resolution and decision-file numbers (CA17 170311 … CA22 170253), and attaching the public presentation of the borough's 2024 operating budget of October 10, 2023 (p. 28 of which tables the surpluses and reserves 2017–2023).
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../../README.md#use-of-ai).*

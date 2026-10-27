@@ -11,3 +11,7 @@ The copies here are kept so that the documents remain available with their prove
 | [`inventory/`](inventory/) | Dated copies of the inventory CSV: December 23, 2024; February 28, 2025; October 17, 2026 |
 
 The PDFs are reproduced as published, with the City's and boroughs' redactions. One file, `budget/3-2022-131.pdf`, carried the requester's e-mail address in a hidden link under the borough's black box; the link target was blanked by the repository owner (see [`budget/README.md`](budget/README.md)).
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

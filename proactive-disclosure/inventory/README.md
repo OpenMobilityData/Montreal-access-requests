@@ -11,3 +11,7 @@ Source: Ville de Montréal, dataset [*Diffusion proactive – Documents remis de
 Columns: `Numero_demande`, `Categorie`, `Sujet`, `Service_Arrondissement`, `Date_reponse`, `Date_ajout`, `Lien_vers_document`. Values are quoted in the theme READMEs exactly as they appear, including the City's spellings (e.g. "évaluaton").
 
 None of the three copies lists City files 2022-1447, 2022-1449 or 2022-1442; neither do the Wayback Machine's captures of the CSV of November 28, 2023 and August 3, 2025. On October 17, 2026 the download link answered only requests with a browser-like User-Agent header.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../../README.md#use-of-ai).*

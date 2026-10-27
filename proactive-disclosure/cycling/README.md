@@ -17,3 +17,7 @@ Inventory rows are quoted from the inventory of October 17, 2026 ([`../inventory
 | [`Demande2021_1197.pdf`](Demande2021_1197.pdf) | 4 | `Demande2021_1197` · Finances et évaluaton foncière · Dépenses pour La Vélocité des lieux construite en 2015 · Service du greffe de la Ville de Montréal · 2021-10-05 · 2021-11-24 · https://depot.ville.montreal.qc.ca/acces-documents-diffusion-proactive/Demande2021_1197.pdf | City e-mail of October 5, 2021 with decision summary 1131146002 (Service de la culture) |
 
 The requesters' names and addresses are blacked out by the City or the borough in every file. Three files (Demande2021_254, Demande2021_46, Demande2021_1197) have no readable text layer; they are reproduced as published.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../../README.md#use-of-ai).*

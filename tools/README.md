@@ -38,3 +38,7 @@ Checks: `qpdf --check` reports no errors; `pdftotext` output of all ten pages id
 ## Checking a whole folder
 
 Before publication every file in the repository was searched for the requester's identifiers in the raw bytes, in every decompressed PDF stream (as 8-bit and UTF-16 text) and in every part of each `.xlsx`, as well as by text extraction and OCR of the pages with no usable text layer.
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*
