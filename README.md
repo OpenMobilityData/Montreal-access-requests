@@ -56,7 +56,11 @@ Quotations from these documents in other work should cite the file number, the f
 
 ### Edit history
 
-Everything in this repository was written in the open. The complete edit history of every file is public through the [commit log](https://github.com/OpenMobilityData/Montreal-access-requests/commits/main) and the diffs; each change can be traced to the commit that made it, with the reason given in the commit message. The files in `2022-1447/` were first published, without provenance, in the repository `OpenMobilityData/Parametric` (February 20, 2025); this repository superseded it, and it was deleted on October 17, 2026. The READMEs were drafted with the help of an AI assistant (Anthropic's Claude), which is named as co-author on the commits where it was used; the author checked every statement against the documents and is responsible for the content.
+Everything in this repository was written in the open. The complete edit history of every file is public through the [commit log](https://github.com/OpenMobilityData/Montreal-access-requests/commits/main) and the diffs; each change can be traced to the commit that made it, with the reason given in the commit message. The files in `2022-1447/` were first published, without provenance, in the repository `OpenMobilityData/Parametric` (February 20, 2025); this repository superseded it, and it was deleted on October 17, 2026.
+
+## Use of AI
+
+Much of the code and many of the drafts in this repository were produced with an AI assistant, Anthropic's Claude, in interactive sessions directed by the author. The author chose the questions, supplied the sources, reviewed every output, and checked every quotation, page reference and figure against the documents; the author alone is responsible for the content. Commits to which the assistant contributed name it as co-author, so the division of work is visible in the history, and errors found in its work are corrected in the open like any other. Nothing in `raw/` is edited by anyone, human or machine.
 
 ## Related
 
