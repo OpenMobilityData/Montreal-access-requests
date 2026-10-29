@@ -50,7 +50,7 @@ The script and commands are in [`tools/`](tools/). The City's copies of these fi
 
 ## Provenance and use
 
-The documents are reproduced as released, including the City's and boroughs' own redactions. Names and work contact details of public officials appear as released. The releases are public records; the inventory CSVs are City of Montréal open data (CC BY 4.0). The READMEs and the contents of the `derived/` folders are published under CC BY 4.0 (code under MIT).
+The documents are reproduced as released, including the City's and boroughs' own redactions. Names and work contact details of public officials appear as released. The releases are public records; the inventory CSVs are City of Montréal open data (CC BY 4.0). The releases themselves (`raw/`) keep their status as public records and are not licensed here. The READMEs and the contents of the `derived/` folders are published under CC BY 4.0 ([`LICENSE`](LICENSE)); code under the MIT licence ([`LICENSE-CODE`](LICENSE-CODE)).
 
 Quotations from these documents in other work should cite the file number, the file name and the PDF page, e.g. "2022-1447, `O - 1 4 Présentation_  DSA et CD - MAI 2019.pdf`, p. 6".
 
