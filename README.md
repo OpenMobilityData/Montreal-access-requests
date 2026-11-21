@@ -71,4 +71,6 @@ Everything is open to review: all source code, documents and data in this reposi
 
 ## About the author
 
-The repository is maintained by Rick Hoge, a resident of Côte-des-Neiges–Notre-Dame-de-Grâce. He works as a data scientist and is a professor in the Faculty of Medicine at McGill University. The work in this repository is personal: it was done as a resident, on his own time, from public records, and represents no position of McGill University or of any other organization; the affiliation is given for identification only. Corrections are welcome through the repository's issue tracker.
+The repository is maintained by Rick Hoge, a researcher in the Faculty of Medicine at McGill University. The views expressed here are the author's own and do not reflect the position of any institution or organization. Unless otherwise indicated, analyses presented here should be considered preliminary pre-peer-review drafts - feedback from other researchers and members of the public is welcome in the GitHub 'Issues' board.
+
+Nothing in this repository should be considered an engineering opinion or legal advice.
